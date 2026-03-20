@@ -1,0 +1,13 @@
+2026-02-19 12:24:31,295 - INFO - PAIR OPENED FOR TICKET NAME : Ankit
+2026-02-19 12:24:40,127 - INFO - CALLING WEB2 FILE
+2026-02-19 12:24:40,131 - INFO - Avenger Web login started....
+2026-02-19 12:24:40,131 - INFO - from: LDH     To : DLI  Train : 18310
+2026-02-19 12:24:40,131 - INFO - Class : 2A   Quota : GN
+2026-02-19 12:24:40,131 - INFO - IP : Home ip:Home ip@Home ip:Home ip
+2026-02-19 12:24:40,233 - INFO - Time difference between local and irctc time is : 223
+2026-02-19 12:24:40,234 - INFO - Using Avenger Version 1.88
+2026-02-19 12:24:40,352 - ERROR - ERROR WHILE GETTING TOKEN FROM DATABASE: unable to open database file
+2026-02-19 12:24:40,352 - ERROR - No Token Available
+2026-02-19 12:24:40,353 - INFO - Opening Chrome browser...
+2026-02-19 12:24:48,512 - ERROR - ChromeDriver version mismatch.
+2026-02-19 12:24:48,512 - ERROR - Mismatch Chrome version.

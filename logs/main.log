@@ -1,0 +1,235 @@
+2026-02-19 12:20:18,771 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:20:18,771 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:20:18,881 - DEBUG - textToNumber value: 228
+2026-02-19 12:20:18,881 - DEBUG - Entering create_shortcut
+2026-02-19 12:20:20,137 - INFO - Creating new shortcut...
+2026-02-19 12:20:20,456 - INFO - Shortcut created successfully.
+2026-02-19 12:20:20,456 - DEBUG - create_shortcut completed
+2026-02-19 12:20:20,456 - DEBUG - Entering clear_prefetch
+2026-02-19 12:20:20,456 - INFO - EXE name: STARLINK
+2026-02-19 12:20:20,456 - DEBUG - clear_prefetch completed
+2026-02-19 12:20:20,456 - DEBUG - Entering configServer
+2026-02-19 12:20:20,803 - DEBUG - configServer successful
+2026-02-19 12:21:41,805 - DEBUG - Entering get_local_version
+2026-02-19 12:21:41,805 - INFO - Local version: 1.88
+2026-02-19 12:21:42,814 - ERROR - Error loading key: [Errno 2] No such file or directory: 'key.txt'
+2026-02-19 12:21:50,255 - DEBUG - Entering get_mac_address
+2026-02-19 12:21:50,255 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:21:50,613 - INFO - Encrypted key saved to key.txt
+2026-02-19 12:21:50,724 - INFO - Decrypted key loaded successfully
+2026-02-19 12:21:50,741 - DEBUG - Entering get_local_version
+2026-02-19 12:21:50,741 - INFO - Local version: 1.88
+2026-02-19 12:24:30,423 - DEBUG - get_next_position returned: 0*0
+2026-02-19 12:24:31,159 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:31,159 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:24:31,291 - DEBUG - textToNumber value: 242
+2026-02-19 12:24:31,295 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:31,295 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:40,133 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:40,133 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:40,133 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:24:40,133 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:24:40,232 - DEBUG - textToNumber value: 223
+2026-02-19 12:24:40,232 - DEBUG - textToNumber value: 223
+2026-02-19 12:24:40,234 - DEBUG - Entering get_local_version
+2026-02-19 12:24:40,234 - DEBUG - Entering get_local_version
+2026-02-19 12:24:40,234 - INFO - Local version: 1.88
+2026-02-19 12:24:40,234 - INFO - Local version: 1.88
+2026-02-19 12:24:40,234 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'login', 'difftm': 0}
+2026-02-19 12:24:40,234 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'login', 'difftm': 0}
+2026-02-19 12:24:40,351 - DEBUG - textToNumber value: 221
+2026-02-19 12:24:40,351 - DEBUG - textToNumber value: 221
+2026-02-19 12:24:40,351 - INFO - No Sleep Required for slot 0
+2026-02-19 12:24:40,351 - INFO - No Sleep Required for slot 0
+2026-02-19 12:24:40,355 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:40,355 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:40,355 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:24:40,355 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:24:40,355 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:24:40,355 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:24:40,444 - DEBUG - textToNumber value: 212
+2026-02-19 12:24:40,444 - DEBUG - textToNumber value: 212
+2026-02-19 12:24:40,444 - DEBUG - textToNumber value: 212
+2026-02-19 12:24:48,512 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:48,512 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:48,512 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:48,589 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:24:48,589 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:24:48,589 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:24:52,253 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:52,253 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:52,253 - INFO - Decrypted key loaded successfully
+2026-02-19 12:24:52,338 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:24:52,338 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:24:52,338 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:26:23,049 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:23,049 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:26:23,194 - DEBUG - textToNumber value: 268
+2026-02-19 12:26:23,194 - DEBUG - Entering create_shortcut
+2026-02-19 12:26:23,215 - INFO - Shortcut already exists and is up to date.
+2026-02-19 12:26:23,215 - DEBUG - create_shortcut completed
+2026-02-19 12:26:23,215 - DEBUG - Entering clear_prefetch
+2026-02-19 12:26:23,215 - INFO - EXE name: STARLINK
+2026-02-19 12:26:23,215 - DEBUG - clear_prefetch completed
+2026-02-19 12:26:23,215 - DEBUG - Entering configServer
+2026-02-19 12:26:23,717 - DEBUG - configServer successful
+2026-02-19 12:26:25,849 - DEBUG - Entering get_local_version
+2026-02-19 12:26:25,849 - INFO - Local version: 1.88
+2026-02-19 12:26:26,872 - INFO - Decrypted key loaded successfully
+2026-02-19 12:26:29,695 - DEBUG - Entering get_mac_address
+2026-02-19 12:26:29,695 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:26:29,944 - INFO - Encrypted key saved to key.txt
+2026-02-19 12:26:30,102 - INFO - Decrypted key loaded successfully
+2026-02-19 12:26:30,118 - DEBUG - Entering get_local_version
+2026-02-19 12:26:30,119 - INFO - Local version: 1.88
+2026-02-19 12:26:34,460 - DEBUG - get_next_position returned: 0*0
+2026-02-19 12:26:35,177 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:35,177 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:26:35,299 - DEBUG - textToNumber value: 244
+2026-02-19 12:26:35,303 - INFO - Decrypted key loaded successfully
+2026-02-19 12:26:35,303 - INFO - Decrypted key loaded successfully
+2026-02-19 12:26:38,193 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:38,193 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:38,194 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:26:38,194 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:26:38,339 - DEBUG - textToNumber value: 260
+2026-02-19 12:26:38,339 - DEBUG - textToNumber value: 260
+2026-02-19 12:26:38,341 - DEBUG - Entering get_local_version
+2026-02-19 12:26:38,341 - DEBUG - Entering get_local_version
+2026-02-19 12:26:38,341 - INFO - Local version: 1.88
+2026-02-19 12:26:38,341 - INFO - Local version: 1.88
+2026-02-19 12:26:38,341 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'login', 'difftm': 0}
+2026-02-19 12:26:38,341 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'login', 'difftm': 0}
+2026-02-19 12:26:38,439 - DEBUG - textToNumber value: 223
+2026-02-19 12:26:38,439 - DEBUG - textToNumber value: 223
+2026-02-19 12:26:38,439 - INFO - No Sleep Required for slot 0
+2026-02-19 12:26:38,439 - INFO - No Sleep Required for slot 0
+2026-02-19 12:26:38,443 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:38,443 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:38,443 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:26:38,443 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:26:38,443 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:26:38,443 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:26:38,536 - DEBUG - textToNumber value: 218
+2026-02-19 12:26:38,536 - DEBUG - textToNumber value: 218
+2026-02-19 12:26:38,536 - DEBUG - textToNumber value: 218
+2026-02-19 12:27:02,677 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'search_train', 'difftm': 0}
+2026-02-19 12:27:02,677 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'search_train', 'difftm': 0}
+2026-02-19 12:27:02,677 - DEBUG - Entering custom_wait with params: {'slot': 0, 'callfrom': 'search_train', 'difftm': 0}
+2026-02-19 12:27:02,840 - DEBUG - textToNumber value: 255
+2026-02-19 12:27:02,840 - DEBUG - textToNumber value: 255
+2026-02-19 12:27:02,840 - DEBUG - textToNumber value: 255
+2026-02-19 12:27:02,840 - INFO - No Sleep Required for slot 0
+2026-02-19 12:27:02,840 - INFO - No Sleep Required for slot 0
+2026-02-19 12:27:02,840 - INFO - No Sleep Required for slot 0
+2026-02-19 12:27:04,357 - DEBUG - Entering base36_encode with num: 1771484224357
+2026-02-19 12:27:04,357 - DEBUG - Entering base36_encode with num: 1771484224357
+2026-02-19 12:27:04,357 - DEBUG - Entering base36_encode with num: 1771484224357
+2026-02-19 12:27:04,357 - DEBUG - base36_encode result: mlt3yvl1
+2026-02-19 12:27:04,357 - DEBUG - base36_encode result: mlt3yvl1
+2026-02-19 12:27:04,357 - DEBUG - base36_encode result: mlt3yvl1
+2026-02-19 12:27:04,359 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:27:04,359 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:27:04,359 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:27:04,359 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:27:04,359 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:27:04,359 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:27:04,359 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:27:04,359 - INFO - GeneralClass initialized with status_var: PY_VAR0
+2026-02-19 12:27:04,570 - DEBUG - textToNumber value: 330
+2026-02-19 12:27:04,570 - DEBUG - textToNumber value: 330
+2026-02-19 12:27:04,570 - DEBUG - textToNumber value: 330
+2026-02-19 12:27:04,570 - DEBUG - textToNumber value: 330
+2026-02-19 12:27:09,760 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:27:09,760 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:27:09,760 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:27:09,760 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:27:09,761 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:27:09,761 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:27:09,761 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:27:09,761 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:27:54,801 - DEBUG - custom_sleep completed for wait_type: WAITING FOR PAX
+2026-02-19 12:27:54,801 - DEBUG - custom_sleep completed for wait_type: WAITING FOR PAX
+2026-02-19 12:27:54,801 - DEBUG - custom_sleep completed for wait_type: WAITING FOR PAX
+2026-02-19 12:27:54,801 - DEBUG - custom_sleep completed for wait_type: WAITING FOR PAX
+2026-02-19 12:27:54,801 - INFO - Passenger input wait time completed.
+2026-02-19 12:27:54,801 - INFO - Passenger input wait time completed.
+2026-02-19 12:27:54,801 - INFO - Passenger input wait time completed.
+2026-02-19 12:27:54,801 - INFO - Passenger input wait time completed.
+2026-02-19 12:28:01,563 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:28:01,563 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:28:01,563 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:28:01,563 - DEBUG - Entering psg_input_wait with psg_count: 1, minPsgnInputTime: 45000#45000#45000#45000#45000#45000
+2026-02-19 12:28:01,563 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:28:01,563 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:28:01,563 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:28:01,563 - DEBUG - Entering custom_sleep with ms: 45000, wait_type: WAITING FOR PAX
+2026-02-19 12:28:35,647 - INFO - Decrypted key loaded successfully
+2026-02-19 12:28:35,647 - INFO - Decrypted key loaded successfully
+2026-02-19 12:28:35,647 - INFO - Decrypted key loaded successfully
+2026-02-19 12:28:35,647 - INFO - Decrypted key loaded successfully
+2026-02-19 12:28:35,762 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:28:35,762 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:28:35,762 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:28:35,762 - INFO - Log sent successfully to http://35.154.175.16/log
+2026-02-19 12:32:51,217 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-19 12:32:51,217 - INFO - GeneralClass initialized with status_var: None
+2026-02-19 12:32:51,359 - DEBUG - textToNumber value: 262
+2026-02-19 12:32:51,359 - DEBUG - Entering create_shortcut
+2026-02-19 12:32:51,384 - INFO - Shortcut already exists and is up to date.
+2026-02-19 12:32:51,384 - DEBUG - create_shortcut completed
+2026-02-19 12:32:51,384 - DEBUG - Entering clear_prefetch
+2026-02-19 12:32:51,384 - INFO - EXE name: STARLINK
+2026-02-19 12:32:51,384 - DEBUG - clear_prefetch completed
+2026-02-19 12:32:51,384 - DEBUG - Entering configServer
+2026-02-19 12:32:51,632 - DEBUG - configServer successful
+2026-02-19 12:41:00,383 - DEBUG - Entering get_local_version
+2026-02-19 12:41:00,383 - INFO - Local version: 1.88
+2026-02-19 12:41:01,414 - INFO - Decrypted key loaded successfully
+2026-02-19 12:41:06,979 - DEBUG - Entering get_mac_address
+2026-02-19 12:41:06,979 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:41:15,472 - DEBUG - Entering get_mac_address
+2026-02-19 12:41:15,472 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:41:17,899 - DEBUG - Entering get_mac_address
+2026-02-19 12:41:17,899 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:51:00,096 - DEBUG - Entering get_mac_address
+2026-02-19 12:51:00,098 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:51:14,972 - DEBUG - Entering get_mac_address
+2026-02-19 12:51:14,972 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-19 12:51:21,536 - DEBUG - Entering get_mac_address
+2026-02-19 12:51:21,536 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-25 17:34:27,011 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-25 17:34:27,012 - INFO - GeneralClass initialized with status_var: None
+2026-02-25 17:34:27,128 - DEBUG - textToNumber value: -750
+2026-02-25 17:34:27,129 - DEBUG - Entering create_shortcut
+2026-02-25 17:34:27,149 - INFO - Shortcut already exists and is up to date.
+2026-02-25 17:34:27,149 - DEBUG - create_shortcut completed
+2026-02-25 17:34:27,150 - DEBUG - Entering clear_prefetch
+2026-02-25 17:34:27,150 - INFO - EXE name: STARLINK
+2026-02-25 17:34:27,150 - DEBUG - clear_prefetch completed
+2026-02-25 17:34:27,150 - DEBUG - Entering configServer
+2026-02-25 17:34:27,447 - DEBUG - configServer successful
+2026-02-25 17:34:29,683 - DEBUG - Entering get_local_version
+2026-02-25 17:34:29,684 - INFO - Local version: 1.88
+2026-02-25 17:35:31,036 - INFO - Logging setup completed for file: Logs\main.log
+2026-02-25 17:35:31,036 - INFO - GeneralClass initialized with status_var: None
+2026-02-25 17:35:31,164 - DEBUG - textToNumber value: -734
+2026-02-25 17:35:31,164 - DEBUG - Entering create_shortcut
+2026-02-25 17:35:31,184 - INFO - Shortcut already exists and is up to date.
+2026-02-25 17:35:31,185 - DEBUG - create_shortcut completed
+2026-02-25 17:35:31,185 - DEBUG - Entering clear_prefetch
+2026-02-25 17:35:31,185 - INFO - EXE name: STARLINK
+2026-02-25 17:35:31,185 - DEBUG - clear_prefetch completed
+2026-02-25 17:35:31,185 - DEBUG - Entering configServer
+2026-02-25 17:35:31,736 - DEBUG - configServer successful
+2026-02-25 17:35:33,954 - DEBUG - Entering get_local_version
+2026-02-25 17:35:33,954 - INFO - Local version: 1.89
+2026-02-25 17:35:34,975 - INFO - Decrypted key loaded successfully
+2026-02-25 17:35:43,352 - DEBUG - Entering get_mac_address
+2026-02-25 17:35:43,352 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-25 17:35:47,824 - DEBUG - Entering get_mac_address
+2026-02-25 17:35:47,824 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-25 17:35:50,079 - DEBUG - Entering get_mac_address
+2026-02-25 17:35:50,080 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
+2026-02-25 17:35:52,303 - DEBUG - Entering get_mac_address
+2026-02-25 17:35:52,303 - DEBUG - MAC address: ec:5c:68:8b:e4:dd
